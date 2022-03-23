@@ -1,2 +1,3 @@
 # Datasets-diabetes
-Algunos datasets sobre datos de diabetes
+En este repositorio se encuentran algunos datasets sobre diabetes para el análisis de datos
+
